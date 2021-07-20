@@ -1,0 +1,36 @@
+body {
+	background-image: url("https://thumbs.gfycat.com/BackLankyGangesdolphin-size_restricted.gif");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  
+	
+	background-color:black;
+	color:white;
+	text-align: center;
+	
+}
+#mainimg {
+	
+   
+    border-style:dotted;
+
+  border-color: white;
+
+  border-radius: 50%;
+  
+  width:150px; height:150px
+}
+.f1{
+	font-family:"Courier New";
+	
+}
+div {
+	
+  width: 87%;
+  border: 15px solid powderblue;
+  border-radius: 15px;
+  padding: 50px;
+  margin: 20px;
+text-align:center
+}
